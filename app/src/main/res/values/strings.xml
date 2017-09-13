@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My Android Terminal Test</string>
+    <string name="confirm">确定</string>
+    <string name="hint">输入Linux Shell</string>
+    <string name="input_is_empty">输入为空！</string>
+    <string name="clean">清屏</string>
+    <string name="about">关于</string>
+    <string name="about_content">Android终端模拟器 V1.0
+        \nDesigned by Pengbin Lee
+        \nEmail:pengbinleee@gmail.com</string>
+</resources>
